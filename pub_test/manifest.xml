@@ -1,0 +1,16 @@
+<package>
+  <description brief="pub_test">
+
+     pub_test
+
+  </description>
+  <author>William Woodall</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/pub_test</url>
+  <depends package="roscpp"/>
+  <depends package="std_msgs"/>
+
+</package>
+
+
